@@ -1,0 +1,1 @@
+#3 ning sharti yoq ekan

@@ -1,0 +1,1 @@
+list=["salom",5,True,38.3,False]

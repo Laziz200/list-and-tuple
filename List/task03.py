@@ -1,0 +1,1 @@
+list=["python",13,-1,-5,99,"task03","DAMAS","VAZIFA",-7,32]
